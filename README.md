@@ -60,23 +60,6 @@ DSA/
 - [ ] Backtracking
 - [ ] Divide and Conquer
 
-## 💻 Implementation Details
-
-### Selection Sort
-**File:** `sorting/selection_sort.py`
-
-**Time Complexity:** O(n²)  
-**Space Complexity:** O(1)
-
-A simple comparison-based sorting algorithm that divides the input into a sorted and unsorted region, repeatedly selecting the smallest element from the unsorted region.
-
-```python
-# Usage Example
-obj = SelectionSort()
-result = obj.selectionSort([5, 3, 2, 6, 7, 1, 9])
-print(result)  # Output: [1, 2, 3, 5, 6, 7, 9]
-```
-
 ## 🚀 Getting Started
 
 ### Prerequisites
