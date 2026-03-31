@@ -20,6 +20,7 @@ This repository contains my daily implementations of various data structures and
 DSA/
 │
 ├── sorting/           # Sorting Algorithms
+│   ├── bubble_sort.py
 │   └── selection_sort.py
 │
 ├── searching/         # Searching Algorithms (Coming Soon)
@@ -35,7 +36,7 @@ DSA/
 
 ### Sorting Algorithms
 - [x] Selection Sort
-- [ ] Bubble Sort
+- [x] Bubble Sort
 - [ ] Insertion Sort
 - [ ] Merge Sort
 - [ ] Quick Sort
@@ -76,6 +77,7 @@ cd Data-Structures-and-Algorithms
 
 # Run any solution
 python sorting/selection_sort.py
+python sorting/bubble_sort.py
 ```
 
 ## 📈 Learning Resources
